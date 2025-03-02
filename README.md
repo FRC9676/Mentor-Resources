@@ -11,5 +11,6 @@ This information is primarily intended for mentors
 ## Controls
 
 ## CAD / Design
+* [Spectrum 3847 - Design Concepts](https://docs.google.com/presentation/d/1whyvTc-HmHIQoMQok2rVF6ahzuzkDI1A4BrMUjpHwMc/edit) (lengthy, thorough presentation on parts and design)
 
 ## Mechanical
