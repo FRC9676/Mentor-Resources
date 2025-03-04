@@ -2,7 +2,7 @@
 This information is primarily intended for mentors
 
 ## General FRC Resources
-
+* [FIRST Wisconsin FRC Mentors SLACK](https://join.slack.com/t/firstwifrcmentors/shared_invite/zt-311wqhrs5-LieP5H3WXlVW3BxIAbkDyA) (essential for mentors)
 ## Programming
 * [From 0 to Robot: How to Teach Programming to Beginners](https://youtu.be/GwAYCnt4wDQ?si=lSxFO-6Wa23L3KJe) (video)
 * [From 0 to Robot: How to Teach Programming to Beginners](https://docs.google.com/presentation/d/15O2Xo5cHsYG3hVvQbMSB2SuvU9ED0Y3feaKdCbgaQyM/preview#slide=id.g27fbcc6740a_0_179) (slides)
