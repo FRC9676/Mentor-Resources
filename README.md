@@ -1,5 +1,5 @@
 # Mentor Resources
-This information is primarily intended for mentors
+This information is primarily intended for mentors; e.g, how to teach topics, mentor advice/support, etc.
 
 ## General FRC Resources
 * [FIRST Wisconsin FRC Mentors SLACK](https://join.slack.com/t/firstwifrcmentors/shared_invite/zt-311wqhrs5-LieP5H3WXlVW3BxIAbkDyA) (essential for mentors)
