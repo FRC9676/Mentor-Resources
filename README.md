@@ -17,12 +17,21 @@ This information is primarily intended for mentors
 
 
 ---
-### Robotics MOOCs
-* [Modern Robotics: Mechanics, Planning, and Control Specialization - Northwestern University via Coursera](https://www.coursera.org/specializations/modernrobotics#courses)
-  * COMMENTS: Covers all key robotics topics, but does not use JAVA, course at undergrad level but textbook dives deep into grad-level math
-  * TEXTBOOK: [Modern Robotics: Mechanics, Planning, and Control - by Frank Chongwoo Park and Kevin M. Lynch
-](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+## MOOCs
+### Robotics
 * [Queensland University of Technology - Robotics Academy](https://robotacademy.net.au/) 
-  * COMMENTS: Probably the easiest to start with; collection of short videos covering robotics topics at an undergrad level, progressively increasing in complexity; gets notation heavy, mathy; MATLAB or Python (no JAVA) 
+  * COMMENTS: Probably the easiest to start with; a collection of short videos covering robotics topics at an undergrad level, progressively increasing in complexity; gets notation heavy, mathy; MATLAB or Python (no JAVA) 
   * TEXTBOOKS: [Robotics, Vision and Control - Peter Corke](https://petercorke.com/#)
   * SOFTWARE: [MATLAB Online](https://www.mathworks.com/products/matlab-online.html) can be used (accessible for free); requires [Corke's Robotics Toolboxes](https://petercorke.com/toolboxes/robotics-toolbox/#)
+
+* [Coursera](https://www.coursera.org/search?query=robotics&language=English&sortBy=BEST_MATCH)
+  * COMMENTS: numerous options, most relevant listed below; FedericaX offers look interesting; 
+  * [Modern Robotics: Mechanics, Planning, and Control Specialization - Northwestern University](https://www.coursera.org/specializations/modernrobotics#courses)
+    * COMMENTS: Covers all key robotics topics, but does not use JAVA, course at undergrad level but textbook dives deep into grad-level math
+    * TEXTBOOK: [Modern Robotics: Mechanics, Planning, and Control - by Frank Chongwoo Park and Kevin M. Lynch
+](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+  * [Introduction to Robotics with Webots Specialization - University of Colorado Boulder](https://www.coursera.org/specializations/introduction-robotics-webots#courses)
+    * COMMENTS: Undergrad level; Python; Webots (free robot sim, possible to simulate FRC robots, e.g. [DeepBlueSim](https://github.com/DeepBlueRobotics/DeepBlueSim); behaviour-based, odometry, motion/path planning
+
+* [edX - numerous options](https://www.edx.org/search?tab=Course&learning_type=Course&q=Robotics&page=1&language=English&availability=Available+now)
+  * COMMENTS: GeorgiaTech offers look interesting; UPenn/PennX has a series that is excellent (but, unfortunately, is archived);
