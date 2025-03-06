@@ -33,5 +33,5 @@ This information is primarily intended for mentors
   * [Introduction to Robotics with Webots Specialization - University of Colorado Boulder](https://www.coursera.org/specializations/introduction-robotics-webots#courses)
     * COMMENTS: Undergrad level; Python; Webots (free robot sim, possible to simulate FRC robots, e.g. [DeepBlueSim](https://github.com/DeepBlueRobotics/DeepBlueSim); behaviour-based, odometry, motion/path planning
 
-* [edX - numerous options](https://www.edx.org/search?tab=Course&learning_type=Course&q=Robotics&page=1&language=English&availability=Available+now)
+* [edX](https://www.edx.org/search?tab=Course&learning_type=Course&q=Robotics&page=1&language=English&availability=Available+now)
   * COMMENTS: GeorgiaTech offers look interesting; UPenn/PennX has a series that is excellent (but, unfortunately, is archived);
