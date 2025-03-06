@@ -16,7 +16,7 @@ This information is primarily intended for mentors
 ## Mechanical
 
 
-
+---
 ### Robotics MOOCs
 * [Modern Robotics: Mechanics, Planning, and Control Specialization - Northwestern University via Coursera](https://www.coursera.org/specializations/modernrobotics#courses)
   * COMMENTS: Covers all key robotics topics, but does not use JAVA, course at undergrad level but textbook dives deep into grad-level math
